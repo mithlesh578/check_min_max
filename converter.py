@@ -1,3 +1,4 @@
+#convert dollar to india rupees
 x = int(input("Enter dollar: "))
 def converter():
     #1 USD = 84.37 INR
